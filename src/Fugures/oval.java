@@ -1,4 +1,4 @@
 package Fugures;
 
-public class oval {
+public class oval extends Figures{
 }

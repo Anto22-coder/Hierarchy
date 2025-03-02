@@ -1,4 +1,4 @@
 package Fugures.Quadrangles;
 
-public class Trapezoid {
+public class Trapezoid extends Quadrangle{
 }

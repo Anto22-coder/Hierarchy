@@ -1,4 +1,4 @@
 package Fugures.Triangles;
 
-public class Isosceles_triangle {
+public class Isosceles_triangle extends Triangles{
 }

@@ -1,4 +1,6 @@
 package Fugures.Triangles;
 
-public class Triangles {
+import Fugures.Figures;
+
+public class Triangles extends Figures {
 }

@@ -1,4 +1,4 @@
 package Fugures;
 
-public class Figures {
+public class Figures{
 }

@@ -1,4 +1,4 @@
 package Fugures.Quadrangles;
 
-public class Rhombus {
+public class Rhombus extends Quadrangle{
 }

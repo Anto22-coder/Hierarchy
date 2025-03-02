@@ -1,4 +1,6 @@
 package Fugures.Quadrangles;
 
-public class Quadrangle {
+import Fugures.Figures;
+
+public class Quadrangle extends Figures {
 }

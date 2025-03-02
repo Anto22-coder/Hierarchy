@@ -1,4 +1,4 @@
 package Fugures.Quadrangles;
 
-public class Parallelogram {
+public class Parallelogram extends Quadrangle{
 }

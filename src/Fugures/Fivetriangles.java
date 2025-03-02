@@ -1,4 +1,4 @@
 package Fugures;
 
-public class Fivetriangles {
+public class Fivetriangles extends Figures{
 }
